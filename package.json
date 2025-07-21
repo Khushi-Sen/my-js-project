@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "calc": "node index.js 5 3 add",
-    "start": "node index.js"
+    "start": "node index.js 5 3 add"
+   
   },
   "keywords": [],
   "author": "",
